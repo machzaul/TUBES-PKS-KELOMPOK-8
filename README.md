@@ -27,6 +27,9 @@ Nama asistem praktikum 2: David Panondang Sinaga
 
 # Dokumentasi
 LAPORAN : https://drive.google.com/file/d/12CVTomcsjdK3Z76-uqozYTU5LSqvu4Fk/view?usp=share_link 
+
 YOUTUBE : https://youtu.be/1J3B_-Mwisk
+
 PROGRAM : 
+
 PROGRAM RUNNING : https://replit.com/@MuhammadIlha249/Program-Konversi-Satuan-Listrik
