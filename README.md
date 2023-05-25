@@ -1,11 +1,17 @@
 # TUBES-PKS-KELOMPOK-8
+
 Muhammad Ilham (122130031)
+
 Hans Cristopher Ebeneazer Sinaga (122130039)
+
 Miftahul Jannah (122130045)
 
 # PENGANTAR KOMPUTER DAN SOFTWARE
+
 Nama Dosen: Asep Nurul Ajiid Mustofa
+
 Nama asisten praktikum 1: Marchel Ferry Timoteus Samosir
+
 Nama asistem praktikum 2: David Panondang Sinaga
 
 # CARA MENGGUNAKAN PROGRAM PROGRAM
