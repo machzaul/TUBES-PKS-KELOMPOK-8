@@ -24,3 +24,9 @@ Nama asistem praktikum 2: David Panondang Sinaga
 4)  Kemudian akan melalukan perkalian atau pembagian tergantung inputan yang dilakukan
 5)  Setelah itu kita menggunakan pengeluaran untuk menunjukkan hasil dari proses program yang sudah di input sesuai satuan internasional.
 6)  Kemudian akan meminta inuputan untuk melakukan perulangan atau tidak dengan menggunakan perulangan do while
+
+# Dokumentasi
+LAPORAN : https://drive.google.com/file/d/12CVTomcsjdK3Z76-uqozYTU5LSqvu4Fk/view?usp=share_link 
+YOUTUBE : https://youtu.be/1J3B_-Mwisk
+PROGRAM : 
+PROGRAM RUNNING : https://replit.com/@MuhammadIlha249/Program-Konversi-Satuan-Listrik
