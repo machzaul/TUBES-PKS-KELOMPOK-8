@@ -30,6 +30,6 @@ LAPORAN : https://drive.google.com/file/d/12CVTomcsjdK3Z76-uqozYTU5LSqvu4Fk/view
 
 YOUTUBE : https://youtu.be/1J3B_-Mwisk
 
-PROGRAM : 
+PROGRAM : https://github.com/machzaul/TUBES-PKS-KELOMPOK-8.git
 
 PROGRAM RUNNING : https://replit.com/@MuhammadIlha249/Program-Konversi-Satuan-Listrik
